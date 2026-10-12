@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_src/
+Disallow: /_dist/
+Disallow: /404.html
+
+Sitemap: https://cozyling.com/sitemap.xml
