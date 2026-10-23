@@ -4,4 +4,4 @@ Disallow: /_src/
 Disallow: /_dist/
 Disallow: /404.html
 
-Sitemap: https://cozyling.com/sitemap.xml
+Sitemap: https://ianshinvl-ui.github.io/cozyling/sitemap.xml

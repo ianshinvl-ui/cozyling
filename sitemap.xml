@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cozyling.com/</loc><lastmod>2026-10-09</lastmod><priority>1.0</priority></url>
-  <url><loc>https://cozyling.com/press.html</loc><lastmod>2026-10-09</lastmod><priority>0.6</priority></url>
-  <url><loc>https://cozyling.com/support.html</loc><lastmod>2026-10-09</lastmod><priority>0.6</priority></url>
-  <url><loc>https://cozyling.com/privacy.html</loc><lastmod>2026-10-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://ianshinvl-ui.github.io/cozyling/</loc><lastmod>2026-10-23</lastmod><priority>1.0</priority></url>
+  <url><loc>https://ianshinvl-ui.github.io/cozyling/support.html</loc><lastmod>2026-10-23</lastmod><priority>0.6</priority></url>
+  <url><loc>https://ianshinvl-ui.github.io/cozyling/privacy.html</loc><lastmod>2026-10-23</lastmod><priority>0.6</priority></url>
 </urlset>
